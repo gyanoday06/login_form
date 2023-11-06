@@ -28,7 +28,7 @@ function App() {
         number={2}
       /> */}
 
-      <Form size={25} />
+      <Form size={100} />
 
     </div>
   );
