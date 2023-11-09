@@ -1,0 +1,13 @@
+{
+  "first_name": "पहला नाम",
+  "last_name": "अंतिम नाम",
+  "email": "ईमेल पता",
+  "password": "पासवर्ड",
+  "create_account": "खाता बनाएं",
+  "login": "लॉगिन",
+  "remember_me": "मुझे याद रखें",
+  "please_enter_email": "कृपया अपना ईमेल पता दर्ज करें",
+  "please_enter_password": "कृपया अपना पासवर्ड दर्ज करें",
+  "please_enter_first_name": "कृपया अपना पहला नाम दर्ज करें",
+  "please_enter_last_name": "कृपया अपना अंतिम नाम दर्ज करें"
+}
